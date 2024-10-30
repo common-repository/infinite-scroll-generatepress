@@ -1,0 +1,7 @@
+#matts_inf_scroll_loading {
+  background-image: url('/wp-includes/images/spinner-2x.gif');
+  background-size: 30px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 50px;
+}
